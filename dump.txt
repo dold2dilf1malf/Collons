@@ -1,1 +1,1 @@
-[{'User': 'User', 'Passwords': [('Chromium edge', [['URL: https://amazon.com/', 'Login: whossssseeed', 'Password: password'], ['URL: https://example.com/', 'Login: oops', 'Password: andioop'], ['URL: https://gay.com/', 'Login: dfdsfsadf', 'Password: sadfasdfasdf']])]}]
+[{'User': 'User'}]
