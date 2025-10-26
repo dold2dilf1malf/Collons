@@ -1,1 +1,1 @@
-[{'User': 'User', 'Passwords': [('Vault', [['URL: SnapshotEncryptionIV', 'Login: MicrosoftStore-Installs', 'Password: PW8jh/uo8Rt3EQ0xLVF5Sg=='], ['URL: SnapshotEncryptionKey', 'Login: MicrosoftStore-Installs', 'Password: c0GLakuUcok2mfvOUMOfzmIlil1vDFWQXU5SklBcdPQ=']]), ('Chromium edge', [['URL: https://amazon.com/', 'Login: whossssseeed', 'Password: password'], ['URL: https://example.com/', 'Login: oops', 'Password: andioop'], ['URL: https://gay.com/', 'Login: dfdsfsadf', 'Password: sadfasdfasdf']])]}]
+[{'User': 'User'}]
