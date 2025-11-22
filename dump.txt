@@ -1,1 +1,1 @@
-
+[{'User': 'User', 'Passwords': [('Vault', [['URL: SnapshotEncryptionIV', 'Login: MicrosoftStore-Installs', 'Password: ct4WmVbOy9JdUkncXowfOQ=='], ['URL: SnapshotEncryptionKey', 'Login: MicrosoftStore-Installs', 'Password: HJh8RITv+gPuiG+V/1RV+upZQmQ/7G0MoOA1MxnGROI=']]), ('Chromium edge', [['URL: https://example.com/', 'Login: example@gmail.com', 'Password: boobsandgasystuff']])]}]
